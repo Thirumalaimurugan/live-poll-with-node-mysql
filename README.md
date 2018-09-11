@@ -2,6 +2,7 @@
 1. This application uses Node.js 10.4.1, mysql 5.5.16(Install both)
 2. Download the application 
 3. Import the mysql data.sql into mysql 
+
          1 Open command prompt on the same location of the root folder of application where app.js file exist
          2 Edit config.js file with the relevant database connection configuration and save it 
 4. Type : npm install (node_modules will be created)
